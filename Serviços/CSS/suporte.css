@@ -1,0 +1,61 @@
+@media screen and (min-width: 1280px){
+.Suporte{
+	border: 10px dashed darkgoldenrod;
+	width: 1280px;
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-image:url(https://c.wallhere.com/photos/8c/b1/Soviet_Union_rocket_space-1865071.jpg!d) ;
+	background-repeat: no-repeat;
+	background-size:100%;
+	overflow: hidden;
+}
+.Suporte button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+button:hover{
+	color: darkred;
+	background-color: red;
+}
+
+
+}
+
+@media screen and (max-width: 1280px){
+	body{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: darkgrey;
+	background-image:url(https://p4.wallpaperbetter.com/wallpaper/162/816/941/ussr-soviet-union-soldier-wallpaper-preview.jpg) ;
+	background-repeat: repeat;
+	background-size:100%;
+	overflow: hidden;
+}
+.Suporte button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+button:hover{
+	color: darkred;
+	background-color: red;
+}
+
+
+
+
+}

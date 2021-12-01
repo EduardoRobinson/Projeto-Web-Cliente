@@ -1,0 +1,68 @@
+@media screen and (min-width: 1280px){
+
+.Cadastro{
+	border: 10px dashed darkgoldenrod;
+	width: 1280px;
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-image:url(https://cdni.rbth.com/rbthmedia/images/2020.09/article/5f5f62fa85600a1f4f3af2dd.jpg) ;
+	background-repeat:repeat;
+	background-size:100%;
+	overflow: hidden;
+}
+
+.Cadastro button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+button:hover{
+	color: darkred;
+	background-color: grey;
+}
+
+
+}
+
+@media screen and (max-width: 1280px){
+	body{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-image:url(https://p4.wallpaperbetter.com/wallpaper/162/816/941/ussr-soviet-union-soldier-wallpaper-preview.jpg) ;
+	background-repeat:repeat;
+	background-size:100%;
+	overflow: hidden;
+}
+
+.Cadastro button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+button:hover{
+	color: darkred;
+	background-color: grey;
+}
+
+
+
+}
+
+
+
+
+
